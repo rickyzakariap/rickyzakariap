@@ -20,6 +20,7 @@ I'm a dynamic Social Media Specialist and Content Producer with a passion for bu
 
 **Productivity & Design Tools:**
 `Google Workspace` `Trello` `Asana` `Figma` `Canva`
+
 ---
 
 ### 📫 Get In Touch
