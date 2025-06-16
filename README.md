@@ -6,7 +6,7 @@ I'm a dynamic Social Media Specialist and Content Producer with a passion for bu
 
 ### 📈 My GitHub Stats
 
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyzakariap&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
