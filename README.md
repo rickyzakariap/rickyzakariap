@@ -31,11 +31,27 @@ Here are some of the technologies and tools I work with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <br><br>
-  <a href="https://www.facebook.com/business" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meta/meta-original.svg" alt="meta" width="40" height="40"/> 
+  <a href="https://about.meta.com/technologies/facebook/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/> 
   </a>
-  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google suite" width="40" height="40"/> 
+  <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.tiktok.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tiktok/tiktok-original.svg" alt="tiktok" width="40" height="40"/>
+  </a>
+  <br><br>
+  <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google suite" width="40" height="40"/>
+  </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
+  </a>
+  <a href="https://asana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asana/asana-original.svg" alt="asana" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -44,7 +60,6 @@ Here are some of the technologies and tools I work with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
   </a>
 </p>
-
 ---
 
 ### 📫 Get In Touch
