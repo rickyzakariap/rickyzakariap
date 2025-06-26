@@ -6,7 +6,7 @@ I'm a dynamic Social Media Specialist and Content Producer with a passion for bu
 
 ### 📈 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyzakariap&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=rickyzakariap&theme=blueberry&hide_border=true)
 
 ---
 
