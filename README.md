@@ -10,6 +10,8 @@ EOF
 
 ---
 
+[![superXdev Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=rickyzakariap&theme=ayu-mirage&layout=compact)](https://github.com/rickyzakariap/github-readme-stats)
+
 ### 📫 Get In Touch
 
 * **Portfolio Website:** `bit.ly/rickyzakariap`
