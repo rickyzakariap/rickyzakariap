@@ -10,19 +10,6 @@ I'm a dynamic Social Media Specialist and Content Producer with a passion for bu
 
 ---
 
-### 🛠️ My Skills
-
-**Technologies & Languages:**
-`HTML5` `CSS3` `JavaScript` `Node.js` `Python`
-
-**Platforms & Social Media:**
-`Meta (Facebook/Instagram)` `TikTok` `X (Twitter)`
-
-**Productivity & Design Tools:**
-`Google Workspace` `Trello` `Asana` `Figma` `Canva`
-
----
-
 ### 📫 Get In Touch
 
 * **Portfolio Website:** `bit.ly/rickyzakariap`
