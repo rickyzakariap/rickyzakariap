@@ -7,7 +7,9 @@ system.out.println("Hello, world... or whatever.");
 > Some programming might be involved.
 
 EOF
+
 ---
+
 ### 📫 Get In Touch
 
 * **Portfolio Website:** `bit.ly/rickyzakariap`
