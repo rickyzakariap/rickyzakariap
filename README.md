@@ -1,15 +1,13 @@
-### Hi there, I'm Ricky 👋
+### ./sup!
 
-I'm a dynamic Social Media Specialist and Content Producer with a passion for building engaged digital communities, especially within the gaming and tech industries. I love turning creative ideas into impactful results.
+system.out.println("Hello, world... or whatever.");
 
+> Crafting narratives for both humans and machines.
+> Talking to ghosts in the machine & building communities in the cloud.
+> Some programming might be involved.
+
+EOF
 ---
-
-### 📈 My GitHub Stats
-
-![GitHub Stats](https://streak-stats.demolab.com?user=rickyzakariap&theme=blueberry&hide_border=true)
-
----
-
 ### 📫 Get In Touch
 
 * **Portfolio Website:** `bit.ly/rickyzakariap`
