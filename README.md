@@ -1,2 +1,17 @@
-### ./sup!
----
+```python
+class README:
+    def __init__(self):
+        self.username = "rickyzakariap"
+        self.contacts = {
+            "Email": "ricky.zakariap@gmail.com",
+            "Twitter": "rickyzakariap"
+        }
+        self.aliases = [
+            "punpun",
+            "iki"
+        ]
+        self.location = "localhost, Indonesia"
+        self.age = "Undefined"
+        self.occupation = "Social Media Specialist 🫦"
+        self.operating_system = "Windows 11"
+```
