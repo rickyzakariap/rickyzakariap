@@ -8,10 +8,10 @@ class README:
         }
         self.aliases = [
             "punpun",
-            "iki"
+            "rick"
         ]
         self.location = "localhost, Indonesia"
         self.age = "Undefined"
-        self.occupation = "Social Media Specialist 🫦"
+        self.occupation = "Social Media Specialist 😜"
         self.operating_system = "Windows 11"
 ```
