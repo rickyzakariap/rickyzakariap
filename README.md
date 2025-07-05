@@ -13,5 +13,5 @@ class README:
         self.location = "localhost, Indonesia"
         self.age = "Undefined"
         self.occupation = "Social Media Specialist [YES I AM!]"
-        self.operating_system = "Windows 11"
+        self.operating_system = "Windows 11, Debian"
 ```
