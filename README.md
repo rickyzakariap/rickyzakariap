@@ -17,7 +17,7 @@ class README:
 ```
 
 <p align="center">
-      <img src="https://64.media.tumblr.com/64b2f779ae4e55f13439975c58dfc056/04a0e1967cc5e765-95/s640x960/df13d75fdddc2dc1700b1fb6edab7b690f3a29e1.gif" alt="mY" width="lebar_gambar" height="tinggi_gambar">
+      <img src="https://pa1.aminoapps.com/6413/da8f5b6b7492082326b3a4ba575ff11b2f23a5d7_hq.gif" alt="mY" width="lebar_gambar" height="tinggi_gambar">
     </p>
 
 
