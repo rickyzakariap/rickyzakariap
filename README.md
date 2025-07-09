@@ -15,3 +15,5 @@ class README:
         self.occupation = "Social Media Specialist [YES I AM!]"
         self.operating_system = "Windows 11, Debian"
 ```
+
+[![rick's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rickyzakariap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
