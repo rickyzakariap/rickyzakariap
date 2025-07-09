@@ -18,4 +18,4 @@ class README:
 
 ## mY
 
-![mY.](https://images.steamusercontent.com/ugc/259345425599202002/70E419F9B23A8E776DCBE9DF22B9C51D79D135F3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "mY")
+![mY.](https://64.media.tumblr.com/64b2f779ae4e55f13439975c58dfc056/04a0e1967cc5e765-95/s640x960/df13d75fdddc2dc1700b1fb6edab7b690f3a29e1.gif "mY")
