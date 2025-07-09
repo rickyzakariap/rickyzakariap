@@ -16,4 +16,6 @@ class README:
         self.operating_system = "Windows 11, Debian"
 ```
 
-[![rick's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rickyzakariap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## mY
+
+![mY.](https://images.steamusercontent.com/ugc/259345425599202002/70E419F9B23A8E776DCBE9DF22B9C51D79D135F3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "mY")
