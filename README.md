@@ -16,7 +16,7 @@ class README:
 ```
 
 <p align="center">
-      <img src="https://s8.gifyu.com/images/gif3634ebae7587b9a1a.gif" alt="mY" width="lebar_gambar" height="tinggi_gambar">
+      <img src="https://media.tenor.com/fkOJWB2I1SgAAAAC/5centimetres-per-second-depressed.gif" alt="mY" width="lebar_gambar" height="tinggi_gambar">
     </p>
 
 
