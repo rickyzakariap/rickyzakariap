@@ -11,7 +11,7 @@ class README:
         ]
         self.location = "localhost"
         self.age = "Undefined"
-        self.occupation = "Social Media Specialist [YES I AM!]"
+        self.occupation = "Social Media Specialist, Journalist and Content Reviewer [YES I AM!]"
         self.operating_system = "Windows 11, Debian"
 ```
 
